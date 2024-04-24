@@ -2,15 +2,15 @@
 <h3 align="center">Passionate and creative developer</h3>
 
 <div align="center">
-    <h2 style="border-bottom: none;">Languages i know</h2>
+    <h2 style="border-bottom: none;">Languages I know</h2>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=php,typescript,javascript,nodejs,html,css,bash,java,cs,cpp,mysql,r&theme=dark&perline=6" />
     </a>
-    <h2 style="border-bottom: none;">Frameworks i work with</h2>
+    <h2 style="border-bottom: none;">Frameworks I work with</h2>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,vue,astro,tailwind&theme=dark" />
     </a>
-    <h2 style="border-bottom: none;">Tools i use</h2>
+    <h2 style="border-bottom: none;">Tools I use</h2>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=discord,git,github,linux,figma,unreal,unity,ableton,stackoverflow,vscode,docker,postman&theme=dark&perline=6" />
     </a>
